@@ -2,4 +2,5 @@
 
 GitHub Pages
 
-* [diary](/diary)
+* [diary](/diary/)
+* [hugo-hands-on](/hugo-hands-on/)
